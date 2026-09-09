@@ -1,2 +1,0 @@
-# mymoney
-Alat Pencatatan Keuangan
